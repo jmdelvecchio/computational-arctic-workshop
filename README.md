@@ -16,6 +16,11 @@ If you are a Dartmouth EARS student or Neukom fellow, we have a few seats in the
 
 [Introduction to The Doodleverse: making geoscientific image segmentation (relatively) easy!](https://docs.google.com/forms/d/e/1FAIpQLSe-E9KGISqp5g0yxel9OLO2REB5HivzOQuZ_Vh_Q_fIQoV8hg/viewform?usp=sf_link) | Thursday March 2 3-5pm
 
+# Resources
+## Jupyter Hub
+The hands-on activities will be hosted on a Dartmouth Jupyter Hub, so no installing any software on your local computer. Link to come. 
+## Jamboard
+We will keep track of shared ideas on this [Jamboard](https://jamboard.google.com/d/1FddaYxYRI7g2lr-fmv1PaVITXFS3coO7MJdjMzZTYR8/edit?usp=sharing), a virtual whiteboard/sticky note wall for hybrid collaboration. 
 
 # Schedule: 
 
