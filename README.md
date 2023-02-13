@@ -8,7 +8,7 @@ Neukom Institute - Haldeman Center 252 and on Zoom
 
 # External participants - sign up for a sponsored account
 
-Please use [this form](https://services.dartmouth.edu/TDClient/1806/Portal/Requests/TicketRequests/NewForm?ID=J6Yv-8sdf90_&RequestorType=Service) to request a sponsored account so you can log into the Jupyter Hub and other Dartmouth digital resources. Just list me as your sponsor. 
+Please use [a link that will work eventually] to request a sponsored account so you can log into the Jupyter Hub and other Dartmouth digital resources. Just list me as your sponsor. 
 
 # Sign up for workshops
 
