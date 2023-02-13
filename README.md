@@ -6,6 +6,10 @@ Wednesday, March 1 – Friday, March 3, 2023
 
 Neukom Institute - Haldeman Center 252 and on Zoom 
 
+# External participants - sign up for a sponsored account
+
+Please use [this form](https://services.dartmouth.edu/TDClient/1806/Portal/Requests/TicketRequests/NewForm?ID=J6Yv-8sdf90_&RequestorType=Service) to request a sponsored account so you can log into the Jupyter Hub and other Dartmouth digital resources. Just list me as your sponsor. 
+
 # Sign up for workshops
 
 If you are a Dartmouth EARS student or Neukom fellow, we have a few seats in the classrooms for more participants in the hands-on coding activites. Please sign up below. Space is limited, but be in touch if the form is closed. 
