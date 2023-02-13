@@ -18,5 +18,7 @@ If you are a Dartmouth EARS student or Neukom fellow, we have a few seats in the
 
 
 # Schedule: 
+
+The schedule is mostly set, with some talks for a CRREL site visit (for US citizens only :( ), and Friday's discussion order/schedule can be switched up depending on participant interests and schedules. 
 	
 ![image](https://user-images.githubusercontent.com/17852785/218345694-87233088-e48f-4b67-8b27-136c6744b12a.png)
