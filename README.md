@@ -22,7 +22,7 @@ If you are a Dartmouth EARS student or Neukom fellow, we have a few seats in the
 
 # Resources
 ## Jupyter Hub
-The hands-on activities will be hosted on a Dartmouth Jupyter Hub, so no installing any software on your local computer (though stay tuned for the Doodleverse portion...). If you have a Dartmouth account, you can go to jhub.dartmouth.edu and select "My Server" and then "Computational Arctic Workshop." 
+The hands-on activities will be hosted on a Dartmouth Jupyter Hub, so no installing any software on your local computer (though stay tuned for the Doodleverse portion...). If you have a Dartmouth account, you can go to [jhub.dartmouth.edu](jhub.dartmouth.edu) and select "My Server" and then "Computational Arctic Workshop." 
 ## Jamboard
 We will keep track of shared ideas on this [Jamboard](https://jamboard.google.com/d/1FddaYxYRI7g2lr-fmv1PaVITXFS3coO7MJdjMzZTYR8/edit?usp=sharing), a virtual whiteboard/sticky note wall for hybrid collaboration. 
 
