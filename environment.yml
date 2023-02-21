@@ -1,0 +1,20 @@
+name: neukom
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- rasterio
+- geopandas
+- shapely
+- geemap
+- earthengine-api
+- pip
+
+- pip:
+  - dataretrieval
+  - lxml

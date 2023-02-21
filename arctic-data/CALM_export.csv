@@ -1,0 +1,251 @@
+Site_Code,Site_Name,Latitude,Longitude,Method,URL,F7,F8,F9,F10,F11,F12,F13,F14,F15,F16,F17,F18,F19,F20,F21,F22,F23,F24,F25,F26,F27,F28,F29,F30,F31,F32
+U1,Barrow,71.316667,-156.6,1000/T,www.gwu.edu/~calm/data\webforms\u1_f.htm, ,0,0,30,35,35,36,37,41,37,34,31,31,29,42,33,32,32,34,34,41,41,38,41,34,40
+U2,"Barrow, CRREL Plots",71.316667,-156.583333,10/T,www.gwu.edu/~calm/data\webforms\u2_f.htm, ,23,23,29,34,34,35,37,40,37,36,29,30 ,28,41,35,34,35,35,36,41,39,38,40,34,39
+U3,Atkasuk,70.45,-157.4,1000/T,www.gwu.edu/~calm/data\webforms\u3_f.htm, ,0,0,0,0,44,47,45,51,49,43,40,42,37,59,47,47,46,49 ,54,49,50,50,58,52,54
+U4,West Dock 1 ha grid,70.366667,-148.55,100/T/B56,www.gwu.edu/~calm/data/webforms/u4_f.htm, ,0,0,0,0,0,30,31,34,33,28,29,29,29,35,27,34,27,30,25,29,29,34,35,31,37
+U5,West Dock 1 km grid,70.366667,-148.566667,1000,www.gwu.edu/~calm/data/webforms/u5_f.htm, ,0,0,48,55,51,55,52,58,51,46,46,48,48,54,45,53,44,47,44,46,51,52,54,48,54
+U6,Deadhorse,70.166667,-148.466667,100/T/B60,www.gwu.edu/~calm/data/webforms/u6_f.htm, ,0,0,0,0,0,64,65,70,71,61,62,61,61,67,56,67,58,63,58,65,63,69,72,70,73
+U7 A,Betty Pingo 1 km grid,70.283333,-148.866667,1000/T,www.gwu.edu/~calm/data/webforms/u7a_f.htm, ,0,0,52,54,55,55,55,60,54,47,48,50,50,58,49,56,46,51,48,49,54,56,58,49,54
+U7 B,Betty Pingo MNT,70.2835,-148.8928,100,www.gwu.edu/~calm/data/webforms/u7b_f.htm, ,0,0,0,0,41,44,42,44,39,37,34,37,37,42,35,40,32,34 ,32,34,36,40,43,35,39
+U7 C,Betty Pingo WET,70.275,-148.919,100,www.gwu.edu/~calm/data/webforms/u7c_f.htm, ,0,0,0,0,43,48,41,46,42,41,36,41,38,45,36,43,34,40 ,37,40,43,45,44,41,43
+U8,Franklin Bluff,69.683333,-148.716667,100/T/B60,www.gwu.edu/~calm/data/webforms/u8_f.htm, ,0,0,0,0,0,63,66,72,66,55,58,55,55,64,53,65,57,57,60,66,65,69,70,68,68
+U9 A,Happy Valley,69.166667,-148.833333,100/T/B40,www.gwu.edu/~calm/data/webforms/u9a_f.htm, ,0,0,0,0,0,36,40,47,44,0,0, ,35,0,32,39,33,43,38,43,40,42,44,42,42
+U9 B,Happy Valley 1 km grid,69.1,-148.5,1000/T,www.gwu.edu/~calm/data/webforms/u9b_f.htm, ,0,0,44,45,43,43,48,48,44,40,42,40,40,45,41,47,40,44,49,44,47,43,47,47,46
+U10,Lupine Hill,69.12883,-148.5928,100,www.gwu.edu/~calm/data/webforms/u10_f.htm, ,0,0,0,0,48,46,40,0,48,41,41,41,46,42,41,46,36,48,51,54,57,49,54,51,50
+U11 A,Imnavait Creek  1 km grid,68.5,-149.5,1000/T,www.gwu.edu/~calm/data/webforms/u11a_f.htm, ,0,56,60,60,48,45,50,56,50,44,46,39,47,48,55,48,47,52,58,63,59,55,55,50,59
+U11 B,Imnavait Creek WET,68.611,-149.3145,100,www.gwu.edu/~calm/data/webforms/u11b_f.htm, ,0,0,0,0,53,54,56,54,53,45,49,39,46,51,44,49,45,54,58,64,56,51,60,55,55
+U11 C,Imnavait Creek MAT,68.611,-149.30933,100,www.gwu.edu/~calm/data/webforms/u11c_f.htm, ,0,0,0,0,43,43,47,46,47,37,43,30,40,42,39,38,41,45,47,55,47,50,53,46,54
+U12 A,Toolik 1 km grid,68.616667,-149.6,1000/T,www.gwu.edu/~calm/data/webforms/u12a_f.htm, ,0,0,0,0,45,47,49,54,48,44,46,37,41,40,51,48,51,50 ,55,61,55,50,51,50,51
+U12 B,Toolik MAT,68.624,-149.61817,100,www.gwu.edu/~calm/data/webforms/u12b_f.htm, ,0,0,0,0,43,47,45,51,52,41,45,33,37,45,44,41,38,44,47,53,47,48,51,45,50
+U13,Toolik LTER,68.616667,-149.6,P/T,www.gwu.edu/~calm/data/webforms/u13_f.htm,36,28,40,46,36,43,33,46,44,45,38,32,33,40,40,37,39,41,35,51,45,43,38,0,0,0
+U14,Galbraith Lake,68.483333,-149.5,100/T/B75,www.gwu.edu/~calm/data/webforms/u14_f.htm, ,0,0,0,0,0,51,59,60,56,0,46,39,47,0,44,48,54,53,59,59,50,56,57,55,57
+U15,Chandalar Shelf,68.066667,-149.583333,30/T/B61,www.gwu.edu/~calm/data/webforms/u15_f.htm, ,0,0,0,0,0,35,0,35,36,32,32,24,30,39,38,35,42,36,38,43,41,44,37,36,38
+U26,Ivotuk  1 km grid,68.483333,-155.733333,1000,www.gwu.edu/~calm/data/webforms/u26_f.htm, ,0,0,0,0,0,0,0,0,0,55,51,43,0,53,51,54,56,50 ,55,57,53,50,54,52,0
+U31,56 Mile,69.6969,-148.6821,100,www.gwu.edu/~calm/data/webforms/u31_f.htm, ,0,0,0,0,0,61,68,71,62,63,61,63,64,66,56,65,54,65,64,67,75,69,70,64,65
+U32 A,Sagwon Hills MNT,69.441,-148.67033,100,www.gwu.edu/~calm/data/webforms/u32a_f.htm, ,0,0,0,0,60,61,58,67,59,55,52,55,52,56,47,60,52,59 ,61,62,65,61,60,55,57
+U32 B,Sagwon Hills MAT,69.401,-148.8056,100,www.gwu.edu/~calm/data/webforms/u32b_f.htm, ,0,0,0,0,40,40,40,43,41,37,38,33,36,42,28,40,25,41,42,43,47,38,41,42,41
+U20,Drew Point,70.866667,-153.916667,T/B640,www.gwu.edu/~calm/data/webforms/u20_f.html, ,0,0,0,0,0,0,0,38,38,36,29,34,30,39,38,39,39,38,38,0,0,0,0,0,0
+U21,Inigok,70,-153.1,T/B625,www.gwu.edu/~calm/data/webforms/u21_f.html, ,0,0,0,0,0,0,0,68,61,43,41, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U22,Fish Creek,70.333333,-152.05,T/B735,www.gwu.edu/~calm/data/webforms/u22_f.html, ,0,0,0,0,0,0,0,32,31,29,28,31,30,37,30,30,27,28,30,0,0,0,0,0,0
+U23,Awuna,69.166667,-158.016667,T/B884,www.gwu.edu/~calm/data/webforms/u23_f.html, ,0,0,0,0,0,0,0,36,35,32,34, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U24,Uniat,69.4,-152.15,T/B640,www.gwu.edu/~calm/data/webforms/u24_f.html, ,0,0,0,0,0,0,0,39,39,32,31,33,32,40,27,39,31,35,34,0,0,0,0,0,0
+U25,Tunalik,70.2,-160.066667,T/B393,www.gwu.edu/~calm/data/webforms/u25_f.html, ,0,0,0,0,0,0,0,47,48,42,41, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U29,Niguanak,69.883333,-142.983333,T/B/30?,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,26,29,30,46,39.4,55,56,54,48,0,0,0,0,0,0
+U30,Koluktak,69.75,-154.616667,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U31,Marsh Creek,69.783333,-144.8,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U33,South Meade,70.633333,-156.833333,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,43,39,41,41,39,0,0,0,0,0,0,0
+U34,Camden Bay,69.966667,-144.766667,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U35,Awuna2,69.15,-158.033333,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U36,Red Sheep Creek,68.683333,-144.833333,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U37,Piksiksak,70.033333,-157.083333,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U38,East Teshekpuk,70.566667,-152.966667,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,24,28,34,32,34,34,0,0,0,0,0,0
+U39,Ikpikpuk,70.433333,-154.366667,T/B/,www.gwu.edu/~calm/data/webforms/u29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U16,Old Man,66.45,-150.616667,100/T/B63,www.gwu.edu/~calm/data/webforms/u16_f.htm, ,0,0,0,0,0,33,37,44,39,35,0, ,39,43,41,42,43,38,38,46,43,42,36,50,39
+U17,Wickersham,65.266667,-148.05,TT/P,www.gwu.edu/~calm/data/webforms/u17_f.htm,43,41,42,45,44,47,36,40,43,39,49,46,46,52,38,41,52,53,54,53,48,48,49,52,54,56
+U18,Bonanza Creek LTER,64.75,-148,TT/P/T/B44,www.gwu.edu/~calm/data/webforms/u18_f.htm,47,49,50,0,55,58,45,50,51,40,59,59,56,56,55,63,59,67,58,55,59,98,121,131,168,178
+U19,Pearl Creek,64.9,-147.8,TT/P,www.gwu.edu/~calm/data/webforms/u19_f.htm,70,63,71,66,66,72,53,61,65,55,58,59,61,61,61,70,67,80,79,77,78,77,76,77,90,101
+U41,Farmers Loop,65.466667,-148.116667,100,www.gwu.edu/~calm/data/webforms/u41_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,58,54,57,57,53,57,57,57,55,59,56
+U40A,Mentasta Fen,62.55,-143.366667,100/T,www.gwu.edu/~calm/data/webforms/u40a_f_files, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,51,58,0,0,0,0,0
+U40B,Tanada Muskeg,62.516667,-143.366667,100/T,www.gwu.edu/~calm/data/webforms/u40b_f_files, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,60,70,0,0,0,0,0
+U42,Kotlik,63.02131,-163.5607,50/P/T,www.gwu.edu/~calm/data/webforms/u42_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,51,46,49,0,0,0,0
+U43,Emmonak,62.78478,-164.52623,50/P/T,www.gwu.edu/~calm/data/webforms/u43_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,62,48,60,0,0,0,0
+U44,Chevak,61.52786,-165.61778,50/P/T,www.gwu.edu/~calm/data/webforms/u44_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,59,47,53,0,0,0,0
+U45,Marshall,61.87901,-162.05759,50/P/T,www.gwu.edu/~calm/data/webforms/u45_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,56,46,50,0,0,0,0
+U46,St.Mary s,62.04755,-163.23412,50/P/T,www.gwu.edu/~calm/data/webforms/u46_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,83,66,72,0,0,0,0
+U47,Circle,65.82819,-144.07843,50/P/T,www.gwu.edu/~calm/data/webforms/u47_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,66,72,86,0,0,0,0
+U48,Fort Yukon,66.62076,-145.1035,50/P/T,www.gwu.edu/~calm/data/webforms/u48_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,83,93,0,0,0,0,0
+U49,Hess Creek,65.65724,-149.08443,100/P/T,www.gwu.edu/~calm/data/webforms/u49_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,38,46,48,0,0,0,0
+U50,Galena,64.7333,-156.78334,50/P/T,www.gwu.edu/~calm/data/webforms/u50_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,39,44,51,0,0,0,0
+U51,Eagle,64.7777,-141.10954,50/P/T,www.gwu.edu/~calm/data/webforms/u51_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,32,56,54,0,0,0,0
+U52,Allakaket,66.54491,-152.64539,50/P/T,www.gwu.edu/~calm/data/webforms/u52_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,45,60,0,0,0,0
+U53,Ruby,64.73486,-155.48461,50/P/T,www.gwu.edu/~calm/data/webforms/u53_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,52,63,0,0,0,0
+U54,Nome Creek,65.36988,-147.0609,50/P/T,www.gwu.edu/~calm/data/webforms/u54_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,46,50,0,0,0,0
+U55,Arctic Village,68.13013,-145.540066,50/P/T,www.gwu.edu/~calm/data/webforms/u55_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,69,70,0,0,0,0
+U56,Venetie,67.03829,-146.40263,50/P/T,www.gwu.edu/~calm/data/webforms/u56_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,67,85,0,0,0,0
+U57,Nenana,64.55446,-149.08339,50/P/T,www.gwu.edu/~calm/data/webforms/u57_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,61,59,0,0,0,0
+U58,Dot Lake,63.67475,-144.14597, ,www.gwu.edu/~calm/data/webforms/u58_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,64,49,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+U27,Council Grid,64.833333,-163.7,1000,www.gwu.edu/~calm/data/webforms/u27_f.htm, ,0,0,0,0,0,0,0,0,73,53,71,53,59,0,76,0,0,75,63,65,71,57,55,60,68
+U28,Kougarok,65.45,-164.616667,1000,www.gwu.edu/~calm/data/webforms/u28_f.htm, ,0,0,0,0,0,0,0,0,65,47,56,52,54,0,75,0,0,62,61,64,68,56,58,58,57
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C1,Alexandria Fiord,78.883333,-75.916667,100,www.gwu.edu/~calm/data\webforms\c1_f.html, ,0,0,0,0,43,49,0,0,57,62,58, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C3 A,North Head (thaw tube),69.719722,-134.461944,TT,www.gwu.edu/~calm/data/webforms/MT_f.html, ,61,62,63,64,62,60,0,70,66,59,62,60,59,0,0,0,64,63,0,0,0,0,0,0,0
+C3 B,North Head (grid),69.719722,-134.461944,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,52,52,43,43,44,45,50,40,52,48,50,44,0,50,0,42,0,0
+C4 A,Taglu (Thaw tube),69.369167,-134.948611,TT/T/B30,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,111,0,118,0,112,118,0,0,0,117,110,124,119,101,129,132,114,138,0,171,0,0,0,0
+C4 B,Taglu (grid),69.369167,-134.948611,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,104,110,109,100,100,96,99,80,96,94,91 ,86,94,94,91,85,0,0
+C5 A,Lousy Point (Thaw tube),69.218889,-134.291111,TT/T/B30,www.gwu.edu/~calm/data/webforms/MT_f.html, ,81,78,80,86,85,75,0,91,84,64,70,64,73,68,68,77,73,68 ,67,74,72,83,78,83,0
+C5 B,Lousy Point  (grid),69.218889,-134.291111,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,64,62,52,53,54,53,55,49,61,55,59,55,0,0,63,51,0,0
+C6,Parsons Lake,68.966667,-133.55,T,www.gwu.edu/~calm/data/webforms/c6_f.html,79,80,85,84,91,89,84,90,80,75,78,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C7 A,Reindeer Depot  (Thaw tube),68.684722,-134.145833,TT,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,127,129,132,136,134,135,140,137,134,136,123,129,122,115,134,128,131,129,137,138,154,150,0,0
+C7 B,Reindeer Depot  (grid),68.684722,-134.145833,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,0,0,113,117,108,101,0,104,121,109,111 ,0,0,0,0,0,0,0
+C8 A,Rengleng River  (Thaw tube),67.795,-134.126111,TT,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,102,106,111,111,108,110,116,111,110,108,108,105,107,103,115,113,110,0,0,0,0,0,95,0
+C8 B,Rengleng River   (grid),67.795,-134.126111,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,82,78,80,77,75,72,0,71,83,80,81,78,0,84,85,0,79,0
+C9 A,Mountain River  (Thaw tube),65.673611,-128.829167,TT,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,58,59,62,62,58,59,62,57,59,53,53,54,48,48,0,0,  ,0,0,0,0,0,0,0
+C10,Pump Station,65.283333,-126.883333,T/P,www.gwu.edu/~calm/data/webforms/c10_f.html,62,66,64,58,60,63,61,77,78,77,80,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C11 A,Norman Wells   (Thaw tube),65.193056,-126.468889,TT,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,64,63,61,61,59,59,66,64,64,66,64,60,60,61,0,0, ,0,0,0,0,0,0,0
+C11 B,Norman Wells   (grid),65.193056,-126.468889,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,50,49,45,45,47,41,39,46,48,47,50 ,0,0,0,0,0,0,0
+C12,Great Bear River,64.916667,-125.583333,T/P,www.gwu.edu/~calm/data/webforms/c12_f.html,71,72,72,72,69,69,63,69,87,86,86,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C13,Ochre River,63.466389,-123.692778,TT,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,60,58,63,0,66,65,65,64,64,64,58,62,66,67, ,0,0,0,47,0,0,0
+C14 A,Willowlake River,62.696667,-123.065,TT,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,79,83,84,90,87,89,91,82,86,88,86,80,82,89,88, ,0,90,0,91,0,0,0
+C14 B,Willowlake River,62.696667,-123.065,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,0,0,0,74,78,72,73,78,88,87,88 ,84,0,87,0,83,0,0
+C15 A,Fort Simpson,61.887778,-121.601667,TT/T,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,95,106,123,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C15 B,Fort Simpson,61.887778,-121.601667,100,www.gwu.edu/~calm/data/webforms/MT_f.html, ,0,0,0,0,0,0,0,0,76,85,84,82,76,77,91,93,99,98,88,0,104,0,96,0,0
+C16,Lake Hazen; Ellesmere Island,81.816667,-71.383333,T,www.gwu.edu/~calm/data/webforms/c16_f.html, ,0,0,0,47,51,47,46,52,43,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C17,Sheldrake River,56.633333,-76.1,T,www.gwu.edu/~calm/data/webforms/c17_f.html,121,134,107,131,134,0,154,157,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C18,Tanquary Fiord; Ellesmere Island,81.4,-76.7,100,www.gwu.edu/~calm/data/webforms/c18_f.html, ,0,0,0,0,0,0,56,51,58,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C19,Eureka; Ellesmere Island,80.016667,-85.75,1000,www.gwu.edu/~calm/data/webforms/c19_f.html, ,0,0,0,0,0,0,52,53,0,49,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+C20,Baker Lake,64.166667,-95.5,T/B3,www.gwu.edu/~calm/data/webforms/c20_f.html, ,0,0,0,0,0,0,120,170,174,189,193, ,0,178,0,0,0, ,0,0,0,0,0,0,0
+C21,Marmot Mountain,52.8,-118.116667,T,www.gwu.edu/~calm/data/webforms/c21_f.html,336,352,362,220,354,272,240,192,0,342,96,152,84,0,0,0,0,0, ,0,0,0,0,0,0,0
+C22,Dawson,63.94054,-138.59157,50/P/T,www.gwu.edu/~calm/data/webforms/c22_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,26,32,39,0,0,0,0
+C23,Teslin,60.44943,-133.52016,50/P/T,www.gwu.edu/~calm/data/webforms/c23_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,55,46,54,0,0,0,0
+C24,Beaver Creek,62.3377,-140.83835,50/P/T,www.gwu.edu/~calm/data/webforms/c24_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,42,48,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R2,"Ayach-Yakha, Vorkuta",67.583333,64.183333,100/T,www.gwu.edu/~calm/data\webforms\r2_f.html, ,0,0,0,0,0,70,63,65,64,69,73,76,77,78,81,84,89,87,86,89,88,91,93,91,90
+R23,Talnik,67.333333,63.733333,100,www.gwu.edu/~calm/data/webforms/r23_f.html, ,0,0,0,0,0,0,0,76,91,111,111,110,113,125,131,137,138, 152,144,138,144,161,156,0,150
+R24,Bolvansky,68.3,54.5,100,www.gwu.edu/~calm/data/webforms/r24_f.html, ,0,0,0,0,0,0,0,0,89,106,106,104,113,120,115,114,125,124,112,104,107,0,117,102,110
+R24 A,Kashin Island,68.233333,53.85,100,www.gwu.edu/~calm/data/webforms/r24a_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,58,64,88,87,65,80
+R44,Umbozero; Kola Peninsula,67.772396,34.182046,100,www.gwu.edu/~calm/data/webforms/r44_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,160,160,165,160,162
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R1,Nadym; West Siberia,65.333333,72.916667,100/T/B10,www.gwu.edu/~calm/data/webforms/r1_f.html, ,0,0,0,0,0,0,119,134,129,126,132,143,126,134,141,129,129,136,101,114,129,134,136,164,163
+R3,"Marre Sale, Yamal Peninsula",69.716667,66.75,1000/T/B10,www.gwu.edu/~calm/data/webforms/r3_f.html, ,0,0,0,0,131,110,92,93,92,106,111,115,109,114,116,116,114,114,85,98,102,127,115,102,122
+R4,"Parisento, Gydan Peninsula",70.116667,75.583333,1000,www.gwu.edu/~calm/data/webforms/r4_f.html, ,0,82,91,0,94,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R5,"Vaskiny Dachy, Yamal Peninsula",70.283333,68.9,100/T/B10,www.gwu.edu/~calm/data/webforms/r5_f.html, ,0,0,84,85,95,89,81,93,87,92,92,92,0,94,97,94,92, 93,76,87,87,102,103,93,102
+R5 A,"Vaskiny Dachi, Yamal Peninsula",70.2755,68.891639,50,www.gwu.edu/~calm/data/webforms/r5abc_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,72,75,47,67,67,77,80,71,76
+R5 B,"Vaskiny Dachi, Yamal Peninsula",70.2955,68.883472,50,www.gwu.edu/~calm/data/webforms/r5abc_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,72,73,81,65,65,77,78,70,77
+R5 C,"Vaskiny Dachi, Yamal Peninsula",70.301389,68.841306,50,www.gwu.edu/~calm/data/webforms/r5abc_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,112,113,82,106,114,128,126,111,129
+R50a,Urengoy Gas Field GP5,66.31537,76.90772,100/T/B10,www.gwu.edu/~calm/data/webforms/r50_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0,84,65,77,72,87,70,76,85
+R50b,Urengoy Gas Field GP15,67.47791,76.69529,100/T/B10,www.gwu.edu/~calm/data/webforms/r50_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0,84,65,80,82,95,92,84,93
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R6,"Labaz Lake, Taimyr",72.383333,99.5,100/T,www.gwu.edu/~calm/data\webforms\r6_f.html, ,0,0,0,42,50,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R7,"Levinson Lessing Lake, Taimyr",74.533333,98.6,100/T,www.gwu.edu/~calm/data/webforms/r7_f.html, ,0,0,0,36,42,34,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R8,"Tiksi (Game), Lena Delta",71.583333,128.783333,1000/T,www.gwu.edu/~calm/data/webforms/r8_f.html, ,0,0,0,0,0,0,40,40,42,47,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R28,Svjatoy Nos cape (East Siberian sea),72.857,141.010167,100,www.gwu.edu/~calm/data/webforms/r28_f.html, ,0,0,0,0,0,0,0,0,0,0,38, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R29 A,Bykovsky (Lena delta) (edoma),71.7855,129.419167,100,www.gwu.edu/~calm/data/webforms/r29_f.html, ,0,0,0,0,0,0,0,0,0,0,27, ,35,25,33,35,44, 38,28,38,39,33,26,35,0
+R29 B,Bykovsky (Lena delta) (alas),72.7855,130.419167,100,www.gwu.edu/~calm/data/webforms/r29_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,26,33,32,44, 37,25,28,35,30,24,33,30
+R32,Talnah (Norilsk Region),69.433333,88.466667,100,www.gwu.edu/~calm/data/webforms/r32_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,81,91,90, 94,94,94,96,104,86,95,102
+R40,Igarka,67.482222,86.435556,100,www.gwu.edu/~calm/data/webforms/r40_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0,74,71,67,70,69,72,79,89
+R42,Tuymada (Yakutsk region),62.013306,129.656991,50/TT,www.gwu.edu/~calm/data/webforms/r42_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0,203,199,197,201,201,201,203,201
+R43,Neleger (Yakutsk region),62.316255,129.499661,50/TT,www.gwu.edu/~calm/data/webforms/r43_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0,124,122,123,123,124,129,126,125
+R46,Chara Belenky,56.76038,118.18903,100,www.gwu.edu/~calm/data/webforms/r46_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,59,49,0
+R47,Chara Most,56.906264,118.280672,100,www.gwu.edu/~calm/data/webforms/r47_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,55,42,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R12 A,Kuropatochya River; Kolyma,70.916667,156.633333,100/T/B15,www.gwu.edu/~calm/data\webforms\r12_f.html, ,0,0,0,0,0,37,36,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R12 B,Kuropatochya River; Kolyma,70.916667,156.633333,100,www.gwu.edu/~calm/data/webforms/r12_f.html, ,0,0,0,0,0,27,36,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R13 A,"Cape Chukochii; edoma,Kolyma",70.083333,159.583333,100/T/B30,www.gwu.edu/~calm/data/webforms/r13_f.html, ,0,0,0,0,0,0,37,0,36,33,38,44,49,0,50,42,55,50,36,52,45,43,47,0,36
+R13 B,"Cape Chukochi, alas, Kolyma",70.083333,159.916667,100,www.gwu.edu/~calm/data/webforms/r13_f.html, ,0,0,0,0,0,0,0,0,0,31,39,38,48,0,46,32,56,37,25,46,46,41,47,0,27
+R14,"Chukochya River, Kolyma",69.483333,156.983333,100/T/B25,www.gwu.edu/~calm/data/webforms/r14_f.html, ,0,0,0,0,0,42,0,41,38,41,0, ,0,0,47,44,0,39,46,49,47,46,42,0,48
+R15 A,"Konkovaya River, Kolyma",69.383333,158.466667,100/T/B50,www.gwu.edu/~calm/data/webforms/r15_f.html, ,0,0,0,0,0,39,44,25,32,0,36, ,0,0,0,30,60, 38,28,48,32,30,30,0,31
+R15 B,"Konkovaya River, Kolyma",69.383333,158.466667,100/T/B50,www.gwu.edu/~calm/data/webforms/r15_f.html, ,0,0,0,0,0,0,0,0,36,0,32, ,0,0,0,44,54, 44,39,45,54,46,43,0,44
+R16,"Segodnya Pingo, Kolyma",69.083333,158.9,100,www.gwu.edu/~calm/data/webforms/r16_f.html, ,0,0,0,0,0,38,0,0,30,0,0, ,0,0,54,42,75,49,43,56,72,54,50,57,60
+R17,Akhmelo channel; Kolyma,68.816667,161,100/T,www.gwu.edu/~calm/data/webforms/r17_f.html, ,0,0,0,0,0,44,56,43,0,45,47, ,51,55,54,53,60, 49,47,56,61,53,55,64,55
+R18,Mt. Rodinka; Kolyma,68.75,161.5,100/T,www.gwu.edu/~calm/data/webforms/r18_f.html, ,0,0,0,0,0,45,67,72,74,75,75,76,81,85,82,83,86,80,78,84,84,77,74,79,83
+R18 A,Mt. Rodinka; Kolyma ( 10 m grid),68.75,161.5,10/T,www.gwu.edu/~calm/data/webforms/r18_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,91,97,100,96,104,98,96,104,104,97,94,101,102
+R19,"Lake Glukhoe, Kolyma",68.8,160.95,100,www.gwu.edu/~calm/data/webforms/r19_f.html, ,0,0,0,0,0,72,56,65,67,72,0, ,84,92,95,93,0, 92,92,103,94,83,89,95,101
+R20,"Malchilovskaya Channel, Kolyma",68.516667,161.433333,100,www.gwu.edu/~calm/data/webforms/r20_f.html, ,0,0,0,0,0,54,0,48,52,46,50, ,48,56,53,54,57, 55,49,53,59,54,61,65,59
+R21,"Lake Akhmelo, Kolyma",68.833333,161.033333,100/T/B15,www.gwu.edu/~calm/data/webforms/r21_f.html, ,0,0,0,0,0,85,0,70,83,84,84, ,96,103,113,101,117, 100,96,110,105,92,96,108,96
+R22,Alazeya River,69.316667,154.983333,100/B23,www.gwu.edu/~calm/data/webforms/r22_f.html, ,0,0,0,0,0,0,0,46,46,0,0, ,0,51,53,0,57, 53,51,57,50,52,49,45,56
+R25,Jakutskoe Lake,69.85,159.5,100,www.gwu.edu/~calm/data/webforms/r25_f.html, ,0,0,0,0,0,0,0,0,23,37,38, ,0,0,55,45,65, 43,42,65,60,41,41,0,39
+R26,"Panteleikha, Kolyma",68.416667,161.216667,100,www.gwu.edu/~calm/data/webforms/r26_f.html, ,0,0,0,0,0,45,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R31,Allaiha (Indigirka basin),70.55,147.433333,100,www.gwu.edu/~calm/data/webforms/r31_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,39,42,44,48, 47,49,52,52,50,47,47,46
+R35,Omolon,68.733333,158.9,100,www.gwu.edu/~calm/data/webforms/r35_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,41,34,32,52,45,44,40,40,46
+R36,Andryushkino,69.166667,154.433333,100,www.gwu.edu/~calm/data/webforms/r36_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,38,37,43, 43,41,31,35,34,44,38,38
+R37 A,Khomus-1,69.983333,153.583333,100,www.gwu.edu/~calm/data/webforms/r37_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,51,0,0, ,0,0,0,0,0,0,0
+R37 B,Khomus-2,69.983333,153.583333,100,www.gwu.edu/~calm/data/webforms/r37_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,54,0,0, ,0,0,0,0,0,0,0
+R38 A,Mt. Rodinka (Control),68.7,161.55,10/T,www.gwu.edu/~calm/data/webforms/r38_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,115,129,148,137,151,133,122,145,149,130,124,132,134
+R38 B,Mt. Rodinka (Burn),68.716667,161.533333,10/T,www.gwu.edu/~calm/data/webforms/r38_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,148,155,167,156,0, ,0,154,157,139,147,150,152
+R38 C,Mt. Rodinka (Station),68.733333,161.4,10/T,www.gwu.edu/~calm/data/webforms/r38_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,72,77,80,81,84,79,78,82,79,72,66,75,75
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R9,Cape Rogozhny; Chukotka,64.783333,176.966667,100/T,www.gwu.edu/~calm/data\webforms\r9_f.html, ,0,0,0,43,42,49,50,38,39,42,44,46,50,57,57,53,59, 52,52,52,51,53,52,59,55
+R10,Upper Kargoplgyno River; Chukotka,64.083333,177.066667,100,www.gwu.edu/~calm/data/webforms/r10_f.html, ,0,59,51,56,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R11,"Mt. Dionisy, Chukotka",64.566667,177.2,100/T,www.gwu.edu/~calm/data/webforms/r11_f.html, ,0,0,0,0,0,50,47,45,53,46,47,52,55,64,62,0,67, 61,60,53,57,54,57,60,58
+R27,Lavrentia,65.6,-171.05,100,www.gwu.edu/~calm/data/webforms/r27_f.html, ,0,0,0,0,0,0,0,0,0,59,60,62,64,65,67,59,74, 61,64,74,65,67,69,70,72
+R41,Lorino,65.539667,-171.630229,100,www.gwu.edu/~calm/data/webforms/r41_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,47,47,47,51,56,55
+R45,Kruglaya (Anadyr),64.633333,176.966667,100,www.gwu.edu/~calm/data/webforms/r45_f.htm, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,42,44,44,47,49,44
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+R30 A,Ploskii Tolbachik (Kamchatka),55.45,160.17,100,www.gwu.edu/~calm/data\webforms\r30_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,78,67,71,73,72,73,80,76,72,76,0,0,0
+R30 B,Ploskii Tolbachik (Kamchatka) 1,55.45,160.17,100,www.gwu.edu/~calm/data/webforms/r30_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,49,56,54,53,56,63,58,59,57,0,0,0
+R30 C,Ploskii Tolbachik (Kamchatka) 2,55.45,160.19,100,www.gwu.edu/~calm/data/webforms/r30_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,44,45,49,49,50,50,48,46,0,47
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+G1,Zackenberg; ZEROCALM 1,74.466667,-20.5,100/T,www.gwu.edu/~calm/data\webforms\g1_f.html, ,0,0,0,0,0,60,62,66,50,64,63,71,73,76,79,76,75,79,79,78,82,82,75,74,0
+G2,Zackenberg; ZEROCALM 2,74.466667,-20.5,150/T,www.gwu.edu/~calm/data/webforms/g2_f.html, ,0,0,0,0,0,61,57,60,44,60,60,60,63,65,69,68,67,68,73,70,75,72,70,67,0
+G3,Disko Island,69.25,-53.5,100/T,www.gwu.edu/~calm/data/webforms/g3_f.html, ,0,0,0,0,0,0,57,71,74,68,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+N1,"Janssonhaugen, Svalbard",78.166667,16.466667,T/B102,www.gwu.edu/~calm/data\webforms\n1_f.html, ,0,0,0,0,0,0,0,154,142,157,159,171,171,173,165,180,175,166,174,182,183,176,180,0,0
+N2,"Junvvasshoe, Norway",61.666667,8.366667,T/B129,www.gwu.edu/~calm/data/webforms/n2_f.html, ,0,0,0,0,0,0,0,0,210,195,200,240,245,217,221,240,215,217,226,213,229,0,0,0,0
+N3,UNISCALM,78.2,15.75,100/T,www.gwu.edu/~calm/data/webforms/n3_f.html, ,0,0,0,0,0,0,0,0,0,96,99,96,93,91,74,100,105,110,100,101,101,101,102,103,105
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+P1,"Calypsos Tranda, Svalbard",77.566667,14.5,P,www.gwu.edu/~calm/data\webforms\p1_f.html,135,141,140,147,0,144,134,0,137,0,134,131,135,0,0,178,195,197,185,188,0,0,0,0,0,0
+P2 A,"Kaffioyra Plain, Spitsbergen",78.683333,11.833333,P,www.gwu.edu/~calm/data/webforms/p2_f.html, ,0,0,0,0,0,0,0,0,120,117,122,128,106,112,118,0,0, ,0,0,0,0,0,0,0
+P2 B,"Kaffioyra Plain, Spitsbergen",78.683333,11.833333,P,www.gwu.edu/~calm/data/webforms/p2_f.html, ,0,0,0,0,0,0,0,0,165,156,158,168,140,108,132,0,0, ,0,0,0,0,0,0,0
+P2 C,"Kaffioyra Plain, Spitsbergen",78.683333,11.833333,P,www.gwu.edu/~calm/data/webforms/p2_f.html, ,0,0,0,0,0,0,0,0,200,210,219,170,230,191,220,0,0, ,0,0,0,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+S1,"Kapp Linne, Svalbard",78.05,13.616667,100/T/B7,www.gwu.edu/~calm/data/webforms/s1_f.html,74,89,91,113,99,97,101,97,109,99,104,95,96,0,93,0,0,0,89,89,89,91,0,0,0,0
+S2,"Abisko area, Sweden",68.333333,18.833333,100/T,www.gwu.edu/~calm/data/webforms/s2_f.html,61,57,56,56,54,52,58,65,70,63,72,74,81,76,76,68,73,90,88,72,72,90,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+CH1,Murtel-Corvatsch,46.433333,9.833333,T/B31,www.gwu.edu/~calm/data/webforms/ch1_f.html,327,337,340,345,348,344,338,343,347,343,345,348,344,351,351,350,350,351,351,0,0,0,0,0,0,0
+CH2,Schilthorn,46.55,7.833333,T/B14,www.gwu.edu/~calm/data/webforms/ch2_f.html, ,0,0,0,0,0,0,0,430,443,488,0,460,496,481,480,484,466,497,0,0,0,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+M 1,Baganuur Depression,47.68889,108.2625,T/B15,www.gwu.edu/~calm/data\webforms\mg_f.html, ,0,0,0,0,0,345,350,355,345,350,340,355,0,375,365,380,380,370,350,0,0,0,0,0,0
+M1 A,Baganuur depression,47.69444,108.29444,T/B15,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,390,390,0,430,485,400,450,600,770,710,820,820, ,0,0,0,0,0,0,0
+M2 A,Nalaikh – northern slope,47.75444,107.25,T/T/B50,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,335,340,350,340,345,335,345,335,335,340,335,340,340,345,0,0,0,0,0,0
+M2 B,Nalaikh – pingo top,47.77639,107.3,T/B7,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,135,130,135,135,140,0,135,140,0,135,130,0,0,0,0,0,0,0
+M2 C,Nalaikh south-western slope,47.77278,107.29167,T/B15,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,330,335,350,355,350,365,400,430,435,435,0,0,0,0,0,0
+M2 D,Nalaikh thermokarst,47.77639,107.33833,T/B3,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,120,0,125,115,130,130,135,0,0,0,0,0,0
+M2 E,Nalaikh – south western slope,47.77083,107.2875,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,370,400,0, ,0,430,420,460,470,520,480,0,0,0,0,0,0
+M2 F,Nalaikh depression plain,47.75278,107.33667,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,530,510,530,585,590,0,0,0,0,0,0,0
+M3,Argalant – valley bottom,47.92361,106.54722,T/B9,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,610,620,600,610,660,720,760,770,750,760,770,800,0,0,0,0,0,0,0
+M4 A,Burenkhan – northern slope,49.78833,100.03417,TT/B5,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,370,340,0,0,380,390,420,440,430,410,390,430,430,390,0,0,0,0,0,0
+M4 B,Burenkhan – valley bottom,49.70417,100.1675,TT/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,325,340,345,348,352,342,350,0, ,0,0,0,0,0,0,0
+M4 C,Burenkhan north eastern slope,49.78472,100.03167,T/B40,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,950,1200,1350,1250,0,0,0,0,0,0
+M4 D,Burenkhan north-facing steep slope,49.78278,100.04667,T/B20,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,410,400,0,0,0,0,0,0,0
+M5,Ardag Mountain,50.62639,100.16583,T/B15,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,300,335,430,360,0,0,0,0,0, ,0,0,0,0,0,0,0
+M5 A,Ardag watershed,50.65917,100.16333,T/B75,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,310,0,0, ,0,400,0,0,400,410,0,0,0,0,0,0,0
+M5 B,Ardag watershed 2,50.65639,100.1625,T/B75,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,300,280,0,295,0,270,0,0,315,325,0,0,0,0,0,0,0
+M5 C,Ardag watershed 3,50.67667,100.16639,T/B150,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,480,250,440,0,0,0,0,0,0,0
+M5D,Ardag watershed 5,50.67667,100.16639,T/B200,www.gwu.edu/~calm/data, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,185,0,305,0,0,0,0,0,0,0
+M6 A,Terkh – valley bottom,48.08194,99.37333,T/B15,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,205,210,207,210,205,215,230,235,235,230,220,0,0,0,0,0,0
+M7 A,Chuluut – pingo top,48.04111,100.39167,T/B15,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,136,140,137,142,0,0,140,160,175,180,180,0,0,0,0,0,0
+M7 B,Chuluut – valley bottom,48.63611,100.37556,T/B15,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0,285,260,290,275,270,285,290,280,0,0,0,0,0,0
+M8,Sharga – valley bottom,49.49027,98.65639,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0,285,280,275,275,285,280,290,280,0,0,0,0,0,0
+M9,Gurban turuu,47.03889,107.68611,TT/B3,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,295,301,305,295,0,0,0, ,0,0,0,0,0,0,0
+M10,Tsengel Mountain,48.66944,89.11139,T/B1.3,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0,109,105,0,0,0,0, ,0,0,0,0,0,0,0
+M10 A,Tsengel N slope,48.7525,89.13556,T/B3,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,275,280,285,0,0, ,0,0,0,0,0,0,0
+M10 B,Tsengel valley bottom,48.77833,89.14056,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,550,0,0, ,0,0,0,0,0,0,0
+M11,Hatgal – lake terrace,50.43861,100.15028,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0,485,475,470,475,480,485,470,475,0,0,0,0,0,0
+M11 A,Hatgal house falt terrace,50.43861,100.15222,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0,450,0,490,470,435,440,435,485,0,0,0,0,0,0
+M11 B,Hatgal house,50.43333,100.16056,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,370,375,382,390,382,400,406,400,410,0,0,0,0,0,0
+M12,Dalbay,51.02,100.75833,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,134,133,138,140,145,139,135,0,0,0,0,0,0
+M12 A,Borsog Flood plain,50.97028,100.72722,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,185,0,0,182,186,192,186,0,0,0,0,0,0
+M12 B,Borsog W slope,50.97444,100.72861,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,240,255,220,275,250,295,0,0,0,0,0,0
+M12 C,Shagnuul,50.25444,100.84472,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,425,425,385,360,0,360,355,0,0,0,0,0,0
+M12 D,Turag,51.28583,100.82722,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,475,470,475,470,475,488,472,0,0,0,0,0,0
+M12 E,Noyon,51.20972,100.77028,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,380,355,376,381,372,0,0,0,0,0,0
+M12 F,Dalbay,50.04444,100.73278,TT,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0,230,0,225,0,0,0, ,210,0,0,0,0,0,0
+M12 G,Dalbay pingo,50.04417,100.75444,TT,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,82,0,0,96,0,137,134,0,0,0,0,0,0
+M12 H,Dalbay gully,51.03111,100.7225,TT,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,130,0,0,0,145,143,133,0,0,0,0,0,0
+M13,Darhad Tsagaan nuur,51.35556,99.35917,T/B15,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,146,150,0,1.45,0,0,0,0,0,0,0
+M13 A,Darhad Khuurch,51.18722,99.4975,T/B100,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,150,148,158,160, ,0,0,0,0,0,0,0
+M13 B,Darhad Rinchin,51.11472,99.63694,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,330,0,345,340,0,0,0,0,0,0,0
+M13 C,Darhad Sharga,51.35861,99.47972,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,175,180,0, ,0,0,0,0,0,0,0
+M14,Terelj open slope,47.98028,100.42528,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,440,425,440,368,374,421,432,0,0,0,0,0,0
+M14 A,Terelj forested slope,47.97944,100.42556,T/B6,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,300,325,285,235,245,257,240,0,0,0,0,0,0
+M15,Borhujir,48.27528,106.19472,T/B10,www.gwu.edu/~calm/data/webforms/mg_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,235,220,220,0,0,0,0,0,0
+M16,Mongot pingo top,49.34722,99.24222,T/B33,www.gwu.edu/~calm/data, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,115,0,0,0,0,0,0
+M16A,Khurimt tal,49.29694,98.19,TT,www.gwu.edu/~calm/data, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,275,0,0,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+CN1,Yutulihe; Northeast China,50.933333,121.333333,T,www.gwu.edu/~calm/data\webforms\cn_f.html, ,96,100,109,112,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+CN2,Fenghuo Shan,34.333333,97.866667,T/B35,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,135,137,139,142,143,145,149,154,177,196,182,187,0,0,0,0,0,0
+CN3,Ecology Station,34.733333,92.883333,T,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,260,263,263,0,>263,0,0,0,279,274,273,0,0,0,0,0,0,0
+CN4,Wuli,35.433333,93.6,T,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,0,0,0,0,>260,0,0,0,337,319,292,317,0,0,0,0,0,0
+CN5,Lower Two Rivers,34.466667,92.733333,T/B40,www.gwu.edu/~calm/data/(EmptyReference!), ,0,0,0,0,0,0,0,0,0,87,89,89,107,0,0,122,110,100,119,0,0,0,0,0,0
+CN6,Upper Two Rivers,31.816667,91.733333,T/B18,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,0,0,0,0,>235,0,0,0,0,0, ,0,0,0,0,0,0,0
+CN7,Kunlun Basin,35.616667,94.066667,T,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,136,136,139,142,138,137,0,0,0,0,0,0,0
+CN8,Glacier Station,43.216667,87.116667,T,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+CN9,Da Xi Gou (Glacier Station),43.116667,86.85,T,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+CN10,Deep Borehole,43.116667,86.85,T,www.gwu.edu/~calm/data\webforms\cn_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+CN11,Shallow Borehole,43.1,86.816667,T,www.gwu.edu/~calm/data/webforms/cn_f.html, ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+ , ,0,0, , , ,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0,0, ,0,0,0,0,0,0,0
+K0,Northern Tien Shan; Cosmostation,43.083333,76.916667,T/B25,www.gwu.edu/~calm/data\webforms\k_f.html,480,510,510,470,490,480,470,480,480,490,490,500,490,492,496,500,495,505,513,638,688,569,0,0,0,0
+K1,Northern Tien Shan; Cosmostation,43.083333,76.916667,T/B14,www.gwu.edu/~calm/data/webforms/k_f.html,450,490,460,420,500,510,490,500,500,520,510,465,470,475,0,0,0,495,500,495,486,457,0,0,0,0
+K2,Northern Tien Shan; Cosmostation,43.083333,76.916667,T/B14,www.gwu.edu/~calm/data/webforms/k_f.html, ,0,0,0,0,0,0,0,410,420,460,470,480,470,480,470,485,455,450,347,381,300,0,0,0,0
