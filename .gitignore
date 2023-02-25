@@ -2,5 +2,5 @@
 /notebooks/CALM_*
 *NCSCDv2*
 /arctic-data/*
-# !/arctic-data/CALM*
-# !/arctic-data/permaice*
+!/arctic-data/CALM*
+!/arctic-data/permaice*
