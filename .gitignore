@@ -4,3 +4,4 @@
 /arctic-data/*
 !/arctic-data/CALM*
 !/arctic-data/permaice*
+!/arctic-data/permaice_gcs*
