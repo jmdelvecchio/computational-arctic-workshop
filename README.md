@@ -50,6 +50,7 @@ We will keep track of shared ideas on this [Jamboard](https://jamboard.google.co
 - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Lamont course from Pangeo Guy using `xarray`, a package that I really need to learn!! so really check out [their tutorial](https://tutorial.xarray.dev/intro.html))
 - [Awesome-GEE](https://awesome.geemap.org/)
 - [Planet Engineering notebooks](https://github.com/planetlabs/notebooks)
+- [CU's EarthLab](https://www.earthdatascience.org/courses/)
 
 # Schedule: 
 
