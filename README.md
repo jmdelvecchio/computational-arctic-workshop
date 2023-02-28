@@ -22,7 +22,19 @@ If you are a Dartmouth EARS student or Neukom fellow, we have a few seats in the
 
 # Resources
 ## Jupyter Hub
-The hands-on activities will be hosted on a Dartmouth Jupyter Hub, so no installing any software on your local computer (though stay tuned for the Doodleverse portion...). If you have a Dartmouth account, you can go to [jhub.dartmouth.edu](https://jhub.dartmouth.edu) and select "My Server" and then "Computational Arctic Workshop." 
+~~The hands-on activities will be hosted on a Dartmouth Jupyter Hub, so no installing any software on your local computer (though stay tuned for the Doodleverse portion...). If you have a Dartmouth account, you can go to [jhub.dartmouth.edu](https://jhub.dartmouth.edu) and select "My Server" and then "Computational Arctic Workshop."~~
+Never mind!!!
+
+## Google Colab
+Yes we have the notebooks running on Colab!!
+[Session 1a](https://colab.research.google.com/drive/1iGtKmqyJWvZhPGEVL04nHyJC8PxMwzWR?usp=share_link)
+[Session 1b](https://colab.research.google.com/drive/1kmUmIaX08iVA1a243aF29I2xNNc3lvF-?usp=share_link)
+[Session 1c](https://colab.research.google.com/drive/108Dw1ntUTjsuYkTTb8JFeRkpWXaANjKS?usp=share_link)
+[Session 2](https://colab.research.google.com/drive/1VWuZIn6KMZUa9ycr6JOQ99lgyh-l2kZg?usp=share_link)
+
+## ...and general documents
+Find the Google Drive folder for this workshop, with all presentation  and crowdsourced material [here](https://drive.google.com/drive/folders/1XpKURn7_TeWEDgfqxmZn1QEVj_k2xnh4).
+
 ## Jamboard
 We will keep track of shared ideas on this [Jamboard](https://jamboard.google.com/d/1FddaYxYRI7g2lr-fmv1PaVITXFS3coO7MJdjMzZTYR8/edit?usp=sharing), a virtual whiteboard/sticky note wall for hybrid collaboration. 
 
