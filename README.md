@@ -27,10 +27,14 @@ Never mind!!!
 
 ## Google Colab
 Yes we have the notebooks running on Colab!!
-[Session 1a](https://colab.research.google.com/drive/1iGtKmqyJWvZhPGEVL04nHyJC8PxMwzWR?usp=share_link)
-[Session 1b](https://colab.research.google.com/drive/1kmUmIaX08iVA1a243aF29I2xNNc3lvF-?usp=share_link)
-[Session 1c](https://colab.research.google.com/drive/108Dw1ntUTjsuYkTTb8JFeRkpWXaANjKS?usp=share_link)
-[Session 2](https://colab.research.google.com/drive/1VWuZIn6KMZUa9ycr6JOQ99lgyh-l2kZg?usp=share_link)
+- [Session 1a](https://colab.research.google.com/drive/1iGtKmqyJWvZhPGEVL04nHyJC8PxMwzWR?usp=share_link)
+
+- [Session 1b](https://colab.research.google.com/drive/1kmUmIaX08iVA1a243aF29I2xNNc3lvF-?usp=share_link)
+
+- [Session 1c](https://colab.research.google.com/drive/108Dw1ntUTjsuYkTTb8JFeRkpWXaANjKS?usp=share_link)
+
+- [Session 2](https://colab.research.google.com/drive/1VWuZIn6KMZUa9ycr6JOQ99lgyh-l2kZg?usp=share_link)
+
 
 ## ...and general documents
 Find the Google Drive folder for this workshop, with all presentation  and crowdsourced material [here](https://drive.google.com/drive/folders/1XpKURn7_TeWEDgfqxmZn1QEVj_k2xnh4).
