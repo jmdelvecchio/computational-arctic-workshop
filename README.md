@@ -42,6 +42,15 @@ Find the Google Drive folder for this workshop, with all presentation  and crowd
 ## Jamboard
 We will keep track of shared ideas on this [Jamboard](https://jamboard.google.com/d/1FddaYxYRI7g2lr-fmv1PaVITXFS3coO7MJdjMzZTYR8/edit?usp=sharing), a virtual whiteboard/sticky note wall for hybrid collaboration. 
 
+## A smattering of good guides/courses:
+- [PyGIS](https://pygis.io/docs/a_intro.html)
+- [Spatial Thoughts OpenCourseWare](https://courses.spatialthoughts.com/index.html)
+- [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
+- [Open Source Geoprocessing Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
+- [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) (Lamont course from Pangeo Guy using `xarray`, a package that I really need to learn!! so really check out [their tutorial](https://tutorial.xarray.dev/intro.html))
+- [Awesome-GEE](https://awesome.geemap.org/)
+- [Planet Engineering notebooks](https://github.com/planetlabs/notebooks)
+
 # Schedule: 
 
 The schedule is mostly set, with some talks for a CRREL site visit (for US citizens only :( ), and Friday's discussion order/schedule can be switched up depending on participant interests and schedules. 
