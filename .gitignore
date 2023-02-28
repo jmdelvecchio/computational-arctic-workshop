@@ -1,4 +1,5 @@
 /notebooks/*.tif
+/notebooks/permaice*
 /notebooks/CALM_*
 *NCSCDv2*
 /arctic-data/*
